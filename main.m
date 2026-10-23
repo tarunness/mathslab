@@ -1,4 +1,4 @@
-function neo_dyn_sierd_simulation()
+function main()
     clear all;
     close all;
     clc;
